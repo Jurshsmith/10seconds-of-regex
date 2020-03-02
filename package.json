@@ -1,0 +1,25 @@
+{
+  "name": "10seconds-of-regex",
+  "version": "1.0.0",
+  "description": "solved regex patterns ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jurshsmith/10seconds-of-regex.git"
+  },
+  "author": "Abolaji Oladele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jurshsmith/10seconds-of-regex/issues"
+  },
+  "homepage": "https://github.com/Jurshsmith/10seconds-of-regex#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
